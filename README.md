@@ -74,15 +74,3 @@ MIT License
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/wikiqa&type=Date)](https://star-history.com/#yourusername/wikiqa&Date)
-
-## 📊 Stats
-
-![GitHub stars](https://img.shields.io/github/stars/yourusername/wikiqa?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/wikiqa?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/wikiqa)
-![GitHub license](https://img.shields.io/github/license/yourusername/wikiqa)
-![Python Version](https://img.shields.io/badge/python-3.8%2B-blue) 
