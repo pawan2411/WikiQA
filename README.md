@@ -14,6 +14,7 @@ A powerful Wikipedia Question Answering system with LLM integration. WikiQA allo
 
 ```bash
 pip install wikiqa
+python -m spacy download en
 ```
 
 ## 🎮 Quick Start
