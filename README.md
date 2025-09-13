@@ -1,5 +1,5 @@
 # 🎯 WikiQA
-
+[![PyPI Downloads](https://static.pepy.tech/personalized-badge/wikiqa?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/wikiqa)
 A powerful Wikipedia Question Answering system with LLM integration. WikiQA allows you to extract information from Wikipedia articles using natural language questions and various extraction methods.
 
 ## ✨ Features
